@@ -1,0 +1,25 @@
+Name	E-mail	Username
+Abhimanyu Susobhanan	abhisrkckl@gmail.com	asusobhanan
+Arpita Choudhary	arp.astro@gmail.com	achoudhary
+Arun Kumar Naidu	arunnaidu123@gmail.com	arun
+Avishek Basu	avishekbs3@gmail.com	avishek
+Bhal Chandra Joshi	bcj@ncra.tifr.res.in	bcj
+Dhruv Pathak	pathakdhruv9786@gmail.com	dhruv.pathak
+Achamveedu Gopakumar	gopu.tifr@gmail.com	
+Jaikhomba Singha	mjaikhomba@gmail.com	jsingha
+Kishalay De	kde@astro.caltech.edu	kishalay
+Krishnakumar MA	kk.ambalappat@gmail.com	kkma
+Lankeswar Dey	lanky441@gmail.com	lankeswar.dey
+Manjari Bagchi	manjari.bagchi@gmail.com	mbagchi
+Mayuresh Surnis	msurnis@gmail.com	mpsurnis
+Neelam Dhanda	neelam.dhanda@gmail.com	nbatra
+Nobleson K	noble.son.k@gmail.com	nkunjappy
+P. K. Manoharan	mano.rac@gmail.com	mano
+Raghav Girgaonkar	raghav.girgaonkar@gmail.com	raghav
+Sai Chaitanya Susarla	saichaitus.99@gmail.com	ssusarla
+Shantanu Desai	shntn05@gmail.com	shantanu
+Suryarao Bethapudi	shining.surya.d8@gmail.com	sbethapudi
+T Prabu	prabu@rri.res.in	prabu
+Yashwant Gupta	ygupta@ncra.tifr.res.in	ygupta
+Yogesh Maan	ymaan4@gmail.com	ymaan
+

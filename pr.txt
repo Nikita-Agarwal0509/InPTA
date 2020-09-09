@@ -1,0 +1,15 @@
+Proposal_ID,Cycle_Number,Title,Telescope_ID,PI_ID,File
+38_014,38,Indian Pulsar Timing Array (InPTA) experiment using the upgraded wideband GMRT and the ORTT : 2020 Update, BHAL CHANDRA JOSHI
+37_010,37,Indian Pulsar Timing Array (InPTA) experiment using the upgraded wideband GMRT and the ORT : 2019 Update,BHAL CHANDRA JOSHI
+37_013,37,A Study of possible profile mode changes in the millisecond pulsar J2124-3358,Arpita Choudhary
+35_016,35,Indian Pulsar Timing Array (InPTA) experiment using the upgraded wideband GMRT and the ORT,BHAL CHANDRA JOSHI
+34_102,34,Indian Pulsar Timing Array (InPTA) experiment using the upgraded wideband GMRT and the ORT,BHAL CHANDRA JOSHI
+33_062,33,Extending timing baseline for the ORTGMRT Indian Pulsar Timing Array (InPTA) experiment,BHAL CHANDRA JOSHI
+33_076,33,Towards precision pulsar timing with the upgraded GMRT,Yashwant Gupta
+32_032,32,Towards precision pulsar timing with the upgraded GMRT,Yashwant Gupta
+32_092,32,Extending timing baseline for the ORTGMRT Indian Pulsar Timing Array (InPTA) experiment,BHAL CHANDRA JOSHI
+31_057,31,Towards precision pulsar timing with the upgraded GMRT,Yashwant Gupta
+31_107,31,Extending timing baseline for the pilot proposal for Indian Pulsar Timing Array (InPTA),BHAL CHANDRA JOSHI
+30_043,30,Towards high precision pulsar timing with the upgraded GMRT,Yashwant Gupta
+30_050,30,Continuing observations for a Pilot proposal for an Indian Pulsar Timing Array (IndPTA),BHAL CHANDRA JOSHI
+29_064,29,A Pilot proposal for an Indian Pulsar Timing Array (IndPTA),BHAL CHANDRA JOSHI
